@@ -1,7 +1,11 @@
-echo "# wekd" >> README.md
+	23:24 02.02.202123:24 02.02.2021echo "# wekd" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Aqilas777/wekd.git
 git push -u origin main
+
+
+fuck of
+	23:23 02.02.2021
